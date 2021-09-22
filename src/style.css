@@ -1,0 +1,145 @@
+/* Style the buttons inside the tab */
+body {
+  background-color: #f2f2f2;
+}
+
+.tabButton {
+  background-color: #ffb300;
+  float: left;
+  margin-left: 40px;
+  margin-top: 4px;
+  cursor: pointer;
+  border: none;
+  padding: 5px 25px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.image {
+  padding-left: 26px;
+}
+
+.outerBox {
+  border: 1px outset;
+  border-style: outset;
+  margin: 10px 35px;
+  background-color: white;
+  height: auto;
+  width: auto;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 12%);
+}
+
+.innerBox {
+  border: 1px outset;
+  border-style: outset;
+  margin: 20px 35px;
+  height: auto;
+  width: auto;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 24%);
+  padding-bottom: 50px;
+}
+
+.titleText {
+  display: inline-block;
+  color: #666666;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 5px;
+  padding-top: 37.5px;
+}
+
+form {
+  padding-left: 40px;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: -5%;
+}
+
+form-group3 .pwdStr {
+  display: inline-block;
+  width: 100px;
+}
+
+form-group3 .text {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: sans-serif;
+  display: inline;
+  margin-bottom: -10px;
+}
+
+form-group3 .text.weak {
+  color: #d12108;
+}
+
+form-group3 .text.fair {
+  color: #d15f12;
+}
+
+form-group3 .text.good {
+  color: #adc511;
+}
+
+form-group3 .text.strong {
+  color: #24c724;
+}
+
+table {
+  border: 1px solid black;
+}
+
+.customTD1 {
+  background: lightgray;
+  font-weight: bold;
+}
+
+.customTD2 {
+  padding-left: 50px;
+}
+
+thead {
+  background-color: #e8e8e8;
+  border-color: #dee2e6;
+}
+
+.hor {
+  border-top: 1px dotted gray;
+  padding-top: 50px;
+}
+
+.base {
+  float: left;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  bottom: 0px;
+  width: 100%;
+  font-size: 12px;
+  color: darkgray;
+}
+
+.required {
+  color: red;
+  font-size: x-large;
+}
+
+#para {
+  font-size: x-large;
+  font-weight: bold;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#green-box {
+  background-color: #dae0c8;
+  width: 800px;
+  border-radius: 7px;
+  margin: auto;
+  text-align: left;
+  padding: 10px;
+  color: #336433;
+}

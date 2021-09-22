@@ -1,0 +1,34 @@
+eIDManager
+
+eIDManager@vcu.edu
+
+Attention NAME, your password for eid account (EID) expires in NUMBER day(s)
+
+<!doctype html>
+<html lang="en">
+<body>
+	<p style="black">
+		NAME,
+		<br><br>
+		This is to inform you that your eID account (EID) password will expire on DATE.
+		<br><br>
+		All VCU eID accounts require passwords to be changed periodically. Follow this link for more information: https://ts.vcu.edu/askit/eid/expirations/
+		<br><br>
+		It is important that you change the eID password for this account before it expires. When the password expires, you will not be able to access any resources which use this eID.
+		<br><br>
+		To change your eID password, follow this link to visit the eID Manager website: <a href="414project.com">https://eidmanager.vcu.edu/</a>
+		<br><br>
+		Please close all open programs and web sessions that use this eID before changing your password.
+		<br><br>
+		If you have forgotten your password or it has expired, please try the "Forgotten Password" link on the eidmanager login page.
+		<br><br>
+		If you need further assistance, please call the VCU IT Support Center at 828-2227 or email itsc@vcu.edu.
+		<br><br>
+		If you feel you have received this email in error, please reply to eidmanager@vcu.edu and give your reason you feel it is in error.
+		<br><br>
+		Thank you,
+		<br><br>
+		VCU Technology Services
+		</p>
+	</body>
+</html>
